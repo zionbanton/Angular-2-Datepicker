@@ -3,6 +3,7 @@ import { By } from '@angular/platform-browser';
 import { CommonModule }   from '@angular/common';
 import { DebugElement } from '@angular/core';
 import { FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import 'jasmine';
 
 import { DatepickerComponent } from './datepicker.component';
 

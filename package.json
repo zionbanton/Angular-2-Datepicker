@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~6.1.10",
     "@angular/platform-server": "~6.1.10",
     "@types/es6-shim": "^0.31.32",
-    "@types/jasmine": "^2.5.38",
+    "@types/jasmine": "^2.8.16",
     "concurrently": "^3.0.0",
     "core-js": "^2.4.1",
     "es6-shim": "^0.35.1",
